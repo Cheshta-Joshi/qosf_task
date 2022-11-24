@@ -8,7 +8,7 @@ you cannot use any implementation already designed by the framework <br />
 
 
 def multiplier(int:number_1, int ,number_2): <br />
-     “”” < br/>
+     “”” 
  number_1 : integer positive value that is the first parameter to the multiplier function, <br/>
 number_2 : integer positive value that is the second parameter to the multiplier function. <br/>
 Return the positive integer value of the multiplication between number_1 and number_2 <br />
@@ -25,7 +25,7 @@ Return the positive integer value of the multiplication between number_1 and num
 
   Return # the result of the quantum circuit into an integer value
 
-# consider print your quantum circuit,
+## consider print your quantum circuit,
 
 
 Example:
